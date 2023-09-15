@@ -1,0 +1,4 @@
+#Wed Sep 06 01:38:34 GMT+03:00 2023
+base.0=C\:\\Users\\awrad\\Desktop\\Flutter course\\day6_test\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
